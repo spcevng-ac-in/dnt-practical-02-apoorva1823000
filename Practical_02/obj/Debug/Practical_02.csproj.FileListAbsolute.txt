@@ -1,0 +1,8 @@
+C:\Users\Apoorva\source\repos\Practical_02\Practical_02\bin\Debug\Practical_02.exe.config
+C:\Users\Apoorva\source\repos\Practical_02\Practical_02\bin\Debug\Practical_02.exe
+C:\Users\Apoorva\source\repos\Practical_02\Practical_02\bin\Debug\Practical_02.pdb
+C:\Users\Apoorva\source\repos\Practical_02\Practical_02\obj\Debug\Practical_02.csproj.AssemblyReference.cache
+C:\Users\Apoorva\source\repos\Practical_02\Practical_02\obj\Debug\Practical_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apoorva\source\repos\Practical_02\Practical_02\obj\Debug\Practical_02.csproj.CoreCompileInputs.cache
+C:\Users\Apoorva\source\repos\Practical_02\Practical_02\obj\Debug\Practical_02.exe
+C:\Users\Apoorva\source\repos\Practical_02\Practical_02\obj\Debug\Practical_02.pdb
